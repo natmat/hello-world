@@ -1,2 +1,2 @@
 # hello-word
-This is my first github.
+Deleted the first line.
